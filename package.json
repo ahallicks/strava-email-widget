@@ -1,0 +1,38 @@
+{
+  "devDependencies": {
+    "canvas": "^2.7.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-useragent": "^1.0.15",
+    "fs-extra": "^9.1.0",
+    "jest": "^26.6.3",
+    "node-cache": "^5.1.2",
+    "node-fetch": "^2.6.1"
+  },
+  "name": "strava-email-widget",
+  "description": "A widget that returns data from the strava API for use in email signatures etc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "canvas": "^2.7.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-useragent": "^1.0.15",
+    "fs-extra": "^9.1.0",
+    "jest": "^26.6.3",
+    "node-fetch": "^2.6.1"
+  },
+  "scripts": {
+    "test": "npm run jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahallicks/strava-email-widget.git"
+  },
+  "author": "Alex Hall",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ahallicks/strava-email-widget/issues"
+  },
+  "homepage": "https://github.com/ahallicks/strava-email-widget#readme"
+}
